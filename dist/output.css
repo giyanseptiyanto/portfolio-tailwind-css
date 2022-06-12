@@ -756,6 +756,18 @@ video {
   max-width: 120px;
 }
 
+.max-w-\[720px\] {
+  max-width: 720px;
+}
+
+.max-w-\[300px\] {
+  max-width: 300px;
+}
+
+.max-w-\[350px\] {
+  max-width: 350px;
+}
+
 .origin-top-left {
   transform-origin: top left;
 }
@@ -1082,6 +1094,10 @@ video {
 
 .uppercase {
   text-transform: uppercase;
+}
+
+.italic {
+  font-style: italic;
 }
 
 .leading-relaxed {
